@@ -1,1 +1,1 @@
- C:\\Users\\alfiy\\AndroidStudioProjects\\AIOptics\\.dart_tool\\flutter_build\\41fdc4c33649bb46099af02d2c8efe8d\\native_assets.yaml: 
+ C:\\Users\\alfiy\\AndroidStudioProjects\\AIOptics\\.dart_tool\\flutter_build\\728fda8de05969d1c2af2023c9d8f237\\native_assets.yaml: 
